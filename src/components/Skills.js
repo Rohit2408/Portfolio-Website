@@ -35,7 +35,7 @@ export const Skills = () => {
                         <p>I know C, C++, Java, Python and still learning</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
-                                <img src={meter1} alt="Image" />
+                                <img src={meter3} alt="Image" />
                                 <h5>Web Development</h5>
                             </div>
                             <div className="item">
@@ -47,7 +47,7 @@ export const Skills = () => {
                                 <h5>Python</h5>
                             </div>
                             <div className="item">
-                                <img src={meter3} alt="Image" />
+                                <img src={meter2} alt="Image" />
                                 <h5>Java</h5>
                             </div>
                         </Carousel>
